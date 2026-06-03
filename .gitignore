@@ -1,0 +1,13 @@
+# Sauvegardes automatiques et cache de Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires du système d'exploitation
+.DS_Store
+Thumbs.db
